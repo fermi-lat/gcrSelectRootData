@@ -1,0 +1,33 @@
+------------------------------------------------------------
+User: claval  Mon Nov 13 02:04:10 PST 2006
+gcrSelectRootData
+
+Log Message:
+New ROOT classes used to build gcrSelect.root output file
+
+Status:
+
+Vendor Tag:	GSR
+Release Tags:	v1r1p1
+		
+N gcrSelectRootData/.cvsignore
+N gcrSelectRootData/cmt/requirements
+N gcrSelectRootData/cmt/.cvsignore
+N gcrSelectRootData/src/GcrSelectedXtal.cxx
+N gcrSelectRootData/src/GcrSelect.cxx
+N gcrSelectRootData/src/GcrSelectEvent.cxx
+N gcrSelectRootData/src/GcrSelectedXtal.cxx_sansHerit
+N gcrSelectRootData/src/GcrSelectedXtal.cxx_avecHerit
+N gcrSelectRootData/gcrSelectRootData/GcrSelectVals.h
+N gcrSelectRootData/gcrSelectRootData/LinkDef.h
+N gcrSelectRootData/gcrSelectRootData/GcrSelect.h
+N gcrSelectRootData/gcrSelectRootData/GcrSelectEvent.h
+N gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h
+N gcrSelectRootData/gcrSelectRootData/gcrSelectRootData_rootcint.cxx
+N gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h_sansHerit
+N gcrSelectRootData/gcrSelectRootData/gcrSelectRootData_rootcint.h
+N gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h_avecHerit
+
+No conflicts created by this import
+
+    *
