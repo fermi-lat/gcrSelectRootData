@@ -1,4 +1,31 @@
 ------------------------------------------------------------
+TAG
+Tag name: v1r2, operation: add
+Package: gcrSelectRootData
+User: heather  Mon Nov 20 13:26:51 2006
+Files:
+  gcrSelectRootData/.cvsignore  1.1.1.1
+  gcrSelectRootData/ChangeLog  1.4
+  gcrSelectRootData/cmt/.cvsignore  1.1.1.1
+  gcrSelectRootData/cmt/requirements  1.2
+  gcrSelectRootData/doc/release.notes  1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h_sansHerit  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/gcrSelectRootData_rootcint.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/LinkDef.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectVals.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectEvent.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/gcrSelectRootData_rootcint.cxx  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h_avecHerit  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelect.h  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx_avecHerit  1.1.1.1
+  gcrSelectRootData/src/GcrSelect.cxx  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx_sansHerit  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx  1.1.1.1
+  gcrSelectRootData/src/GcrSelectEvent.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: heather  Mon Nov 20 13:26:29 PST 2006
 gcrSelectRootData/doc
 
