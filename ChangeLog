@@ -1,4 +1,27 @@
 ------------------------------------------------------------
+TAG
+Tag name: v1r2p1, operation: add
+Package: gcrSelectRootData
+User: usher  Wed Nov 22 10:07:58 2006
+Files:
+  gcrSelectRootData/.cvsignore  1.1.1.1
+  gcrSelectRootData/ChangeLog  1.6
+  gcrSelectRootData/cmt/.cvsignore  1.1.1.1
+  gcrSelectRootData/cmt/requirements  1.3
+  gcrSelectRootData/doc/release.notes  1.2
+  gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/LinkDef.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectVals.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectEvent.h  1.1.1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelect.h  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx_avecHerit  1.1.1.1
+  gcrSelectRootData/src/GcrSelect.cxx  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx_sansHerit  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx  1.1.1.1
+  gcrSelectRootData/src/GcrSelectEvent.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: usher  Wed Nov 22 09:45:09 PST 2006
 gcrSelectRootData/gcrSelectRootData
 
