@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Nov 22 09:43:33 PST 2006
+gcrSelectRootData/gcrSelectRootData
+
+Removed Files:
+	gcrSelectRootData_rootcint.cxx gcrSelectRootData_rootcint.h 
+Log Message:
+removing rootcint files
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r2, operation: add
 Package: gcrSelectRootData
