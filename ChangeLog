@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Wed Dec 13 12:38:13 PST 2006
+gcrSelectRootData/src
+
+Modified Files:
+	GcrSelect.cxx 
+Log Message:
+patch for windows and store GcrSelectVals as a GcrSelectVals
+    *
+------------------------------------------------------------
+User: heather  Wed Dec 13 12:38:13 PST 2006
 gcrSelectRootData/gcrSelectRootData
 
 Modified Files:
