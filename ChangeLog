@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Dec 13 12:38:12 PST 2006
+gcrSelectRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+patch for windows and store GcrSelectVals as a GcrSelectVals
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r0, operation: add
 Package: gcrSelectRootData
