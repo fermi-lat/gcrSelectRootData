@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Dec 13 07:18:48 PST 2006
+gcrSelectRootData/gcrSelectRootData
+
+Modified Files:
+	GcrSelectEvent.h 
+Log Message:
+maintain GcrSelect interface for ROotIo
+    *
+------------------------------------------------------------
 User: heather  Wed Dec 13 06:22:54 PST 2006
 gcrSelectRootData/src/test
 
