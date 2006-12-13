@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Dec 13 06:21:58 PST 2006
+gcrSelectRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+move to TClonesARray
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r2p1, operation: add
 Package: gcrSelectRootData
