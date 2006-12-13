@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: heather  Wed Dec 13 06:21:59 PST 2006
+gcrSelectRootData/src
+
+Modified Files:
+	GcrSelect.cxx GcrSelectEvent.cxx GcrSelectedXtal.cxx 
+Removed Files:
+      Tag: v1r2p1
+	GcrSelectedXtal.cxx_avecHerit GcrSelectedXtal.cxx_sansHerit 
+Log Message:
+move to TClonesARray
+    *
+------------------------------------------------------------
+User: heather  Wed Dec 13 06:21:59 PST 2006
 gcrSelectRootData/gcrSelectRootData
 
 Modified Files:
