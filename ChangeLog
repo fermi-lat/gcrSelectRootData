@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Dec 13 12:52:56 PST 2006
+gcrSelectRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove reconRootData use
+    *
+------------------------------------------------------------
 User: heather  Wed Dec 13 12:38:13 PST 2006
 gcrSelectRootData/src
 
