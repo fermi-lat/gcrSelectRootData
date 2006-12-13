@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Dec 13 06:21:59 PST 2006
+gcrSelectRootData/gcrSelectRootData
+
+Modified Files:
+	GcrSelect.h GcrSelectEvent.h GcrSelectVals.h GcrSelectedXtal.h 
+	LinkDef.h 
+Log Message:
+move to TClonesARray
+    *
+------------------------------------------------------------
 User: heather  Wed Dec 13 06:21:58 PST 2006
 gcrSelectRootData/doc
 
