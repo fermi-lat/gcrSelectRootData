@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Oct 23 12:08:58 PDT 2007
+gcrSelectRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+rootmap generation
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r1, operation: add
 Package: gcrSelectRootData
