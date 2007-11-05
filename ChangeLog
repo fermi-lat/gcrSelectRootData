@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Nov  4 20:05:21 PST 2007
+gcrSelectRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove use of idents
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r1p1, operation: add
 Package: gcrSelectRootData
