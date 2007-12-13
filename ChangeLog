@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Dec 13 13:19:20 PST 2007
+gcrSelectRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+insert some doxygen doc
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r1p2, operation: add
 Package: gcrSelectRootData
