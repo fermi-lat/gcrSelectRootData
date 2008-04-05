@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: claval  Sat Apr  5 13:45:48 PDT 2008
+gcrSelectRootData/gcrSelectRootData
+
+Modified Files:
+	GcrSelect.h GcrSelectEvent.h GcrSelectVals.h GcrSelectedXtal.h 
+Log Message:
+include gcrOBFWordStatus in gcrSelect.root
+
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r1p3, operation: add
 Package: gcrSelectRootData
