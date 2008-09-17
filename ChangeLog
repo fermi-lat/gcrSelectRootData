@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: v2r2p2, operation: mov
+Package: gcrSelectRootData
+User: glastrm  Wed Sep 17 07:30:13 2008
+Files:
+  gcrSelectRootData/SConscript  1.2
+
+    *
+------------------------------------------------------------
 User: glastrm  Wed Sep 17 07:30:07 PDT 2008
 gcrSelectRootData
 
