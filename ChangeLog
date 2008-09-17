@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: claval  Wed Sep 17 06:15:49 PDT 2008
+gcrSelectRootData/gcrSelectRootData
+
+Modified Files:
+	GcrSelect.h GcrSelectEvent.h GcrSelectVals.h GcrSelectedXtal.h 
+Log Message:
+New Oxygen documentation version
+
+    *
+------------------------------------------------------------
 User: ecephas  Fri Aug 15 14:42:39 PDT 2008
 GlastRelease-scons/gcrSelectRootData
 
