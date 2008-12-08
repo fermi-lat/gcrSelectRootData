@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 13:40:32 PST 2008
+GlastRelease-scons/gcrSelectRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Check in SConscript for gcrSelectRootData v2r2p1 (for branch-tag, GlastReleasev15r49) 
+    *
+------------------------------------------------------------
 TAG
 Tag name: gcrSelectRootData-02-02-02, operation: add
 Package: gcrSelectRootData
