@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: gcrSelectRootData-02-02-01, operation: add
+Package: gcrSelectRootData
+User: ecephas  Mon Dec  8 16:08:54 2008
+Files:
+  gcrSelectRootData/gcrSelectRootDataLib.py  1.2
+  gcrSelectRootData/gcrSelectRootDataLib.py  1.2
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 16:08:48 PST 2008
 GlastRelease-scons/gcrSelectRootData
 
