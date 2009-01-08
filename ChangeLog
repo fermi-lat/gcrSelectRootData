@@ -1,5 +1,35 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-15-50-10, operation: add
+Package: gcrSelectRootData
+User: glastrm  Thu Jan  8 14:58:15 2009
+Files:
+  gcrSelectRootData/.cvsignore  1.1.1.1
+  gcrSelectRootData/ChangeLog  1.42
+  gcrSelectRootData/gcrSelectRootDataLib.py  1.2
+  gcrSelectRootData/SConscript  1.3
+  gcrSelectRootData/cmt/.cvsignore  1.1.1.1
+  gcrSelectRootData/cmt/requirements  1.10
+  gcrSelectRootData/doc/gcrSelectRootData.html  1.1
+  gcrSelectRootData/doc/release.notes  1.8
+  gcrSelectRootData/doc/Doxyfile  1.1
+  gcrSelectRootData/doc/images/gcrSelectRootDataTree.gif  1.1
+  gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h  1.6
+  gcrSelectRootData/gcrSelectRootData/LinkDef.h  1.2
+  gcrSelectRootData/gcrSelectRootData/GcrSelectVals.h  1.4
+  gcrSelectRootData/gcrSelectRootData/GcrSelectEvent.h  1.5
+  gcrSelectRootData/gcrSelectRootData/GcrSelect.h  1.5
+  gcrSelectRootData/src/GcrSelectVals.cxx  1.2
+  gcrSelectRootData/src/GcrSelectedXtal.cxx_avecHerit  1.1.1.1
+  gcrSelectRootData/src/GcrSelect.cxx  1.3
+  gcrSelectRootData/src/GcrSelectedXtal.cxx_sansHerit  1.1.1.1
+  gcrSelectRootData/src/GcrSelectedXtal.cxx  1.2
+  gcrSelectRootData/src/GcrSelectEvent.cxx  1.2
+  gcrSelectRootData/src/test/testGcrClasses.cxx  1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-15-49-00, operation: add
 Package: gcrSelectRootData
 User: glastrm  Thu Jan  8 11:00:43 2009
