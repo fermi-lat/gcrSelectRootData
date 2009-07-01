@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul  1 09:50:52 PDT 2009
+gcrSelectRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add EOH to release.notes
+    *
+------------------------------------------------------------
 TAG
 Tag name: gcrSelectRootData-02-02-03, operation: add
 Package: gcrSelectRootData
