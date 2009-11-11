@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Wed Nov 11 15:42:50 PST 2009
+GlastRelease-scons/gcrSelectRootData
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul  1 09:50:52 PDT 2009
 gcrSelectRootData/doc
 
