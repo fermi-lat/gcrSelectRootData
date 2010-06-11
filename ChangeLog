@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:45:15 PDT 2010
+GlastRelease-scons/gcrSelectRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: gcrSelectRootData-02-02-04, operation: add
 Package: gcrSelectRootData
