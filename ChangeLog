@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Mon Aug  9 13:37:45 PDT 2010
+gcrSelectRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+stag/GoGui_auto-tag
+    *
+------------------------------------------------------------
 User: jrb  Fri Aug  6 12:06:13 PDT 2010
 GlastRelease-scons/gcrSelectRootData
 
