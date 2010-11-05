@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Nov  5 15:54:36 PDT 2010
+GlastRelease-scons/gcrSelectRootData
+
+Modified Files:
+      Tag: GlastReleasev18r7p1
+	SConscript 
+Log Message:
+bug fix for rootcint handling in project file
+    *
+------------------------------------------------------------
 User: jrb  Fri Nov  5 15:19:36 PDT 2010
 gcrSelectRootData
 
