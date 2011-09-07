@@ -2,6 +2,15 @@
 TAG
 Tag name: GlastRelease-17-35-24-gr04, operation: add
 Package: gcrSelectRootData
+User: heather  Wed Sep  7 14:22:39 2011
+Files:
+  gcrSelectRootData/doc/images/gcrSelectRootDataTree.gif  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: gcrSelectRootData
 User: heather  Wed Sep  7 14:22:33 2011
 Files:
   gcrSelectRootData/.cvsignore  1.2
