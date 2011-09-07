@@ -2,6 +2,19 @@
 TAG
 Tag name: GlastRelease-17-35-24-gr04, operation: add
 Package: gcrSelectRootData
+User: heather  Wed Sep  7 14:22:45 2011
+Files:
+  gcrSelectRootData/gcrSelectRootData/GcrSelectedXtal.h  1.8
+  gcrSelectRootData/gcrSelectRootData/LinkDef.h  1.2
+  gcrSelectRootData/gcrSelectRootData/GcrSelectVals.h  1.5
+  gcrSelectRootData/gcrSelectRootData/GcrSelectEvent.h  1.6
+  gcrSelectRootData/gcrSelectRootData/GcrSelect.h  1.6
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: gcrSelectRootData
 User: heather  Wed Sep  7 14:22:39 2011
 Files:
   gcrSelectRootData/doc/images/gcrSelectRootDataTree.gif  1.1
