@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: cohen  Sun Feb 26 12:56:19 PST 2012
+GlastRelease-scons/gcrSelectRootData/src/test
+
+Modified Files:
+	testGcrClasses.cxx 
+Log Message:
+fix char* to string literal warning
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr24, operation: add
 Package: gcrSelectRootData
