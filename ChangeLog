@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Mon May 14 12:49:20 PDT 2012
+GlastRelease-scons/gcrSelectRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+get rid of debug messages
+    *
+------------------------------------------------------------
 User: jrb  Mon May 14 12:46:08 PDT 2012
 GlastRelease-scons/gcrSelectRootData
 
