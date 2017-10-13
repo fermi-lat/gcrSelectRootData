@@ -17,7 +17,7 @@ gcrSelectRootDataRootcint=libEnv.Rootcint('gcrSelectRootData/gcrSelectRootData_r
                                            'gcrSelectRootData/GcrSelect.h',   
                                            'gcrSelectRootData/GcrSelectVals.h',
                                            'gcrSelectRootData/LinkDef.h'],
-                                          includes=[''],
+                                          includes=['', '../include'],
                                           localIncludes = locIncs,
                                           packageName = 'gcrSelectRootData')
 libEnv['rootcint_node'] = gcrSelectRootDataRootcint
